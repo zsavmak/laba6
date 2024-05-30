@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716503811 source:c:\users\savel\documents\c++\laba6\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+
